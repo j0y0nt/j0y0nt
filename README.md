@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j0y0nt
+- 👋 Hi.
 - 👀 I’m interested in Mobile and Backend Application Development.
 - 🌱 I’m currently learning `Jetpack Compose` for android and `Swift` for iOS app development.
 - 💞️ I’m looking to collaborate on read 2 and 3 and open source.
