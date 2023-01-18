@@ -1,6 +1,6 @@
 - 👋 Hi.
 - 👀 I’m interested in Mobile and Backend Application Development.
-- 🌱 I’m currently learning `Jetpack Compose` for android and `Swift` for iOS app development.
+- 🌱 Python
 - 💞️ I’m looking to collaborate on read 2 and 3 and open source.
 - 📫 How to reach me > jaravan at proton dot me.
 
