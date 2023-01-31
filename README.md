@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile and Backend Application Development.
 - 🌱 Python
 - 💞️ I’m looking to collaborate on read 2 and 3 and open source.
-- 📫 How to reach me > jaravan at proton dot me.
+- 📫 
 
 <!---
 j0y0nt/j0y0nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
