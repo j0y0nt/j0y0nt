@@ -1,7 +1,7 @@
 - 👋 Hi.
 - 👀 I’m interested in Mobile and Backend Application Development.
 - 🌱 Python
-- 💞️ I’m looking to collaborate on read 2 and 3 and open source.
+- 💞️ I’m looking to collaborate on open source.
 - 📫 
 
 <!---
