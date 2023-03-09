@@ -1,6 +1,6 @@
 - 👋 Hi.
 - 👀 I’m interested in Mobile and Backend Application Development.
-- 🌱 Python
+- 🌱 Python, React, NodeJS.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 
 
