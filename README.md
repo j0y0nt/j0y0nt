@@ -1,5 +1,5 @@
 - 👋 Hi.
-- 👀 I’m interested in Mobile and Backend Application Development.
+- 👀 I’m interested in Mobile, FullStack and Backend Application Development.
 - 🌱 Python, React, NodeJS.
 - 📫 
 
