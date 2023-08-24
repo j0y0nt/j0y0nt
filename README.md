@@ -1,6 +1,6 @@
 - 👋 Hi.
-- 👀 I’m interested in Mobile, FullStack and Backend Application Development.
-- 🌱 Python, React, NodeJS, AWS, Azure.
+- 👀 Decade of frontend and backend.
+- 🌱 Java, Python, React, NodeJS, AWS, Azure.
 - 📫 
 
 <!---
